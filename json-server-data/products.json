@@ -1,0 +1,44 @@
+{
+  "allproducts": [
+    {
+      "id": 2,
+      "name": "Oppo",
+      "price": "20000",
+      "rating": "9",
+      "stock": 154,
+      "category": "Mobile",
+      "description": "Brand new mobile by oppo",
+      "image": "2.jpg"
+    },
+    {
+      "name": "Redmi",
+      "price": "14000",
+      "rating": "9",
+      "stock": 164,
+      "category": "Mobile",
+      "description": "Brand New Mobile by Redmi",
+      "image": "3.jpg",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "name": "Asus zenfone",
+      "price": "50000",
+      "rating": "10",
+      "stock": 132,
+      "category": "Laptop",
+      "description": "New Laptop at reasonable rates",
+      "image": "6.jpg"
+    },
+    {
+      "id": 6,
+      "name": "veggie ",
+      "price": "120",
+      "rating": "9",
+      "stock": 123,
+      "category": "Groceries",
+      "description": "fresh...",
+      "image": "7.jpg"
+    }
+  ]
+}
